@@ -1,2 +1,2 @@
-basics# echo #!/bin/bash
-basics# echo pwd
+^#!/bin/bash
+pwd
